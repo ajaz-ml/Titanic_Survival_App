@@ -7,4 +7,4 @@ Built with:
 - Streamlit
 - Deployed on Streamlit Cloud
 
-Try it live 👉 [insert your Streamlit Cloud link here]
+Try it live 👉 [text](https://titanic-survival-ajaz.streamlit.app)
